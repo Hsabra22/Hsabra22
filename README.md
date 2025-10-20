@@ -1,8 +1,7 @@
 # 👋 Hassan Sabra
 ## Front-End Developer
 
-Crafting modern, responsive web applications with React.js, Next.js, and Tailwind CSS.  
-Passionate about clean UI, smooth animations, and scalable front-end architecture.
+Front-end portfolio with React.js, Next.js & Tailwind CSS showcasing modern, responsive UI
 
 [🌐 Portfolio](#)  [💼 LinkedIn](#)  [✉️ Email](mailto:hassan.sabra2005@gmail.com)
 
@@ -22,18 +21,11 @@ Passionate about clean UI, smooth animations, and scalable front-end architectur
 
 #### ☁ Deployment & Hosting
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
 
 ---
 
 ### 🔥 Projects
-- **Project 1:** Short description + [Link](#)  
-- **Project 2:** Short description + [Link](#)  
-- **Project 3:** Short description + [Link](#)  
+- **Project 1:** E-library + (#e-libraryy.vercel.app)  
+- **Project 2:** Resumify + (#resumify-rho.vercel.app)
 
----
 
-### 📫 Contact Me
-- Email: hassan.sabra2005@gmail.com  
-- LinkedIn: [Hassan Sabra](#)  
-- Portfolio: [Link](#)
