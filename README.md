@@ -1,9 +1,7 @@
 # 👋 Hassan Sabra
 ## Front-End Developer
 
-Front-end portfolio with React.js, Next.js & Tailwind CSS showcasing modern, responsive UI
-
-[🌐 Portfolio](#)  [💼 LinkedIn](#)  [✉️ Email](mailto:hassan.sabra2005@gmail.com)
+Front-end portfolio with **React.js**, **Next.js**, & **Tailwind CSS** showcasing modern, responsive, and interactive UI.
 
 ---
 
@@ -24,8 +22,13 @@ Front-end portfolio with React.js, Next.js & Tailwind CSS showcasing modern, res
 
 ---
 
-### 🔥 Projects
-- **Project 1:** E-library + (#e-libraryy.vercel.app)  
-- **Project 2:** Resumify + (#resumify-rho.vercel.app)
+### 🔥 Featured Projects
+
+| Project | Description | Demo |
+|---------|-------------|------|
+| **E-library** | A modern digital library with responsive design and intuitive navigation. Perfect for reading and managing e-books efficiently. | [View Live](https://e-libraryy.vercel.app) |
+| **Resumify** | A sleek resume generator with **interactive UI** and smooth transitions. Designed to create professional resumes quickly. | [View Live](https://resumify-rho.vercel.app) |
+
+> ⚡ Focused on creating clean, engaging, and mobile-first interfaces.
 
 
