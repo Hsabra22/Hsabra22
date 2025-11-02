@@ -12,8 +12,8 @@ Front-end portfolio with **React.js**, **Next.js**, & **Tailwind CSS** showcasin
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-teal?style=for-the-badge&logo=tailwind-css)
 
-#### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6ba5df31-ed7f-42ff-b48f-ab7c73a21a14" /> Backend
-![Supabase](https://yt3.googleusercontent.com/KVjptxDSWT7rjVfG…IgQV030BPJ0ybCP3_Fz-2w=s900-c-k-c0x00ffffff-no-rj)
+#### 🖥  Backend
+![Supabase](https://assets.eaglestatus.io/services/supabase.png)
 
 #### 🛠 Tools & Workflow
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
