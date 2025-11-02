@@ -1,7 +1,7 @@
 # 👋 Hassan Sabra
 ## Front-End Developer
 
-Front-end portfolio with **React.js**, **Next.js**,**supabase** & **Tailwind CSS** showcasing modern, responsive, and interactive UI.
+Front-end portfolio with **React.js**, **Next.js** & **Tailwind CSS** showcasing modern, responsive, and interactive UI.
 
 ---
 
@@ -11,9 +11,6 @@ Front-end portfolio with **React.js**, **Next.js**,**supabase** & **Tailwind CSS
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-teal?style=for-the-badge&logo=tailwind-css)
-
-#### 🖥  Backend
-![Supabase](https://assets.eaglestatus.io/services/supabase.png)
 
 #### 🛠 Tools & Workflow
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
