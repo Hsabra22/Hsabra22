@@ -1,7 +1,7 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c24a13d2-30de-4d08-9d61-d14c89788693" /># 👋 Hassan Sabra
+# 👋 Hassan Sabra
 ## Front-End Developer
 
-Front-end portfolio with **React.js**, **Next.js**, & **Tailwind CSS** showcasing modern, responsive, and interactive UI.
+Front-end portfolio with **React.js**, **Next.js**,**supabase** & **Tailwind CSS** showcasing modern, responsive, and interactive UI.
 
 ---
 
