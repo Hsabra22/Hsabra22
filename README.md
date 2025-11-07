@@ -26,8 +26,7 @@ Front-end portfolio with **React.js**, **Next.js** & **Tailwind CSS** showcasing
 
 | Project | Description | Demo |
 |---------|-------------|------|
-| **E-library** | A modern digital library with responsive design and intuitive navigation. Perfect for reading and managing e-books efficiently. | [View Live](https://e-libraryy.vercel.app) |
-| **Resumify** | A sleek resume generator with **interactive UI** and smooth transitions. Designed to create professional resumes quickly. | [View Live](https://resumify-rho.vercel.app) |
+| **Hotel Management System** |  | [View Live](https://hotel-management-system-eta.vercel.app/) |
 
 > ⚡ Focused on creating clean
 
