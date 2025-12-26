@@ -28,7 +28,7 @@ Front-end portfolio with **React.js**, **Next.js** & **Tailwind CSS** showcasing
 |---------|-------------|------|
 | **Hotel Management System** |  | [View Live](https://hotel-management-system-indol-pi.vercel.app/) |
 | **Resumify ** |  | [View Live](https://resumify-ten.vercel.app/) |
-
+| **E-Library ** |  | [View Live](https://e-library-eight-plum.vercel.app/) |
 > ⚡ Focused on creating clean
 
 
