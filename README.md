@@ -33,7 +33,7 @@ Front-end portfolio with **React.js**, **Next.js** & **Tailwind CSS** showcasing
 | **Hotel Management System** | Full-stack hotel management app with Next.js, Supabase, and Tailwind CSS for UI. | [View Live](https://hotel-management-system-indol-pi.vercel.app/) |
 | **Resumify** | AI-powered resume generator built with Next.js, Supabase, and Tailwind CSS. | [View Live](https://resumify-2ddk.vercel.app/) |
 | **E-Library** | Modern e-library platform with Next.js, Supabase backend, and Tailwind/Shadcn UI. | [View Live](https://e-library-eight-plum.vercel.app/) |
-| **TrainiFy** |AI-driven personal training platform that generates smart workout programs using Next.js, Supabase, and Tailwind CSS. | [View Live] (https://trainifygen.vercel.app/) |
+| **TrainiFy** |AI-driven personal training platform that generates smart workout programs using Next.js, Supabase, and Tailwind CSS. | [View Live](https://trainifygen.vercel.app/) |
 
 
 > ⚡ Focused on creating clean, scalable, and professional front-end experiences with modern tools.
