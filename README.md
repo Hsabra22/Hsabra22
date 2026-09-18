@@ -5,7 +5,7 @@ Crafting **scalable, production-ready applications** with modern tech stack. Spe
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ten-teal-h2k9g74e23.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassan.sabra2005@gmail.com)
 
 ---
 
